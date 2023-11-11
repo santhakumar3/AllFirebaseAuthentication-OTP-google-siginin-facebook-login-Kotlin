@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "28753951611",
+    "project_id": "allfirebaseauthnativekotlin",
+    "storage_bucket": "allfirebaseauthnativekotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28753951611:android:2a201c04416d19be5b9bde",
+        "android_client_info": {
+          "package_name": "com.example.allfirebaseauthentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA9TFS9zXX2CGqEHhHQttYhznH0dhKrfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
